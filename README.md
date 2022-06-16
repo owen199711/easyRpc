@@ -118,5 +118,5 @@ public class HelloController {
 http://127.0.0.1:8081/hello/输入测试字符串
 ```
 返回下面的字符串就说明运行成功
-![img](\img\res.png)
+![img](img/res.png)
 
